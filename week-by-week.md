@@ -8,6 +8,7 @@ Do we want the seminar talks to be coordinated with the lecture topic? When shou
 
 # Week 2 - What are dynamics
 * Here i'm a bit less versed, i guess we can do the strogatz lecture here that you found? Haven't watched it yet. Any reading?
+* # perhaps move this down to after the whole network topology part
 
 # Week 3 - What are networks and why are they interesting
 * Motivational material 1: Funny historical pop-science intro about Königsberg & 6 degrees
@@ -18,6 +19,7 @@ Do we want the seminar talks to be coordinated with the lecture topic? When shou
 * Task 2: Find a topic that can't be thought of as networks and we will collectively try to prove you wrong
 * Seminar Talk Idea 1: Introduction to SNAP http://snap.stanford.edu/data/index.html#communities: Present this collection of network data and vizualize some examples (unless we do that in the coding session, which would probably be better)
 * Seminar Talk Ides 2: Introduction of one classic network, but which one? The Karate club? The Milgram paper? The moreno paper? All of those together?
+* # perhaps do this intro in week 1 as a classic lecture with some video material for fun as a result all the rest moves up by 2 weeks
 
 # Week 4 - How to analyze networks
 * Network Measures and the network science view: https://www.youtube.com/watch?v=L6CqqlILBCI sadly it's almost 2 h long and has some overlap with week 2 (or 3 if we swap)
