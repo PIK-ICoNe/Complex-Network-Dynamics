@@ -53,18 +53,29 @@ Do we want the seminar talks to be coordinated with the lecture topic? When shou
 * Since i'm not sure if and how much material we can find on this perhaps we can do something gamy and workshoppy. I could give an actual in person lecture on this stuff and maybe we can apply the methods to silly examples from board games or something like that?
 * Seminar Talk: Some paper that does this type of stuff, options would be the newmann paper (though that one's tricky and maybe we want to discuss it in week 6)
 
-# Week 10 - 
+# Week 10 - (when? after Frank's lecture?) Self-organized behaviour--> Synchronisation
+* Historical overview on synchronisation 
+* Non-linear coupling between network units --> Classical Kuramoto Model (KM)
+* KM for different network topology (from complete to complex networks) and different intrinsic frequency --> Mean field theory
 
 # Week 11 - Dynamics on networks - Epidemics
 * Is this too late to start dynamics on networks?
 
 # Week 12 - Power flow stuff?
 
-# Week 13
+# Week 13 - Measure synchronisation in a network
+* Classical phase and frequency order parameter: classical order parameter, network and universal order parameter
+* Finite size effect
+* Fragality measure
 
-# Week 14
+# Week 14 - Stochastic KM
+* Fokker-Planck equation -->Gaussian noise
+* Consider non-Gaussian noise
+* The role of topology to absorb fluctuations
 
-# Week 15
+# Week 15 - Second order KM
+* Why second order KM
+* Swing equation
 
 # Week 16
 
