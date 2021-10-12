@@ -22,7 +22,11 @@
 * The link to stochastic processes
 
 # Oscillators and stochastic dynamics (3-4 Lectures, Mehrnaz)
-* The Kuramoto oscilator
+* Syncgronisation --> Classical Kuramoto Model (KM)
+** Self-organized behaviour
+* KM for complex network
+* 
+* Second Order Kuramoto Model (Swing equation)
 
 
 ---
