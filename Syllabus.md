@@ -23,11 +23,10 @@
 
 # Oscillators and stochastic dynamics (3-4 Lectures, Mehrnaz)
 * Syncgronisation --> Classical Kuramoto Model (KM)
-** Self-organized behaviour
-* KM for complex network
-* 
+* KM for complex network --> from complete to complex network
+* Phase and frequency order parameter
 * Second Order Kuramoto Model (Swing equation)
-
+* Stochatic Kuramoto Model
 
 ---
 
@@ -54,3 +53,5 @@
 * Random Matrix Theory (Mathematics of ensembles - !Difficult!)
 * Probabilistic node-wise stability measures (Multistability)
 * Mean-field solution of the small-world network model
+* (Mehrnaz) Multistability of phase-locking in KM
+* (Mehrnaz) Disturbance propagation in power grid
