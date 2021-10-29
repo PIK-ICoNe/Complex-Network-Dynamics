@@ -1,0 +1,125 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% \documentclass[paper=a4, fontsize=12pt]{article}
+\documentclass[a4paper,12pt]{article}
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage{graphicx} % Required to insert images
+\usepackage[T1]{fontenc}
+%\usepackage{fbb}
+%\usepackage[cmintegrals,cmbraces]{newtxmath}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} % Required for math mode
+\usepackage{textcomp} % Required for text symbols
+\usepackage{amssymb} % Required for math symbols
+\usepackage[section]{placeins}
+\usepackage{caption}
+\usepackage{subfig}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage[linkbordercolor={1 0.5 0.4}]{hyperref}
+
+
+% \usepackage[title,titletoc,toc]{appendix}\
+% \usepackage[title,toc]{appendix}
+% Margins
+\topmargin=-0.45in
+\evensidemargin=-0.1in
+\oddsidemargin=-0.1in
+\textwidth=6.5in
+\textheight=9.4in
+\headsep=0.25in 
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName} % Top left header
+% \chead{\ \hmwkClassInstructor\ \hmwkClassTime \hmwkTitle} % Top center header
+\rhead{WS2021}
+% \rhead{\firstxmark} % Top right header
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+%---------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Phase Reduction} % Assignment title
+\newcommand{\hmwkDueDate}{} % Due date
+\newcommand{\hmwkClass}{} % Course/class
+\newcommand{\hmwkClassTime}{} % Class/lecture time 10:30am
+\newcommand{\hmwkClassInstructor}{} % Teacher/lecturer Jones
+\newcommand{\hmwkAuthorName}{Seminar on Network Science} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} % Create horizontal rule command with 1 argument of height
+
+\title{
+\vspace{2in}
+\huge{\textsc{HU Berlin}\\\vspace{0.3cm}\hmwkClass}\\
+\horrule{0.5pt} \\[0.4cm] % Thin top horizontal rule
+\huge{\textmd{\textbf{\ \hmwkTitle}}}\\
+\horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
+% \normalsize\vspace{0.1in}\LARGE{\textit{\hmwkDueDate}}\\%Due\ on\ 
+% \vspace{0.1in}\LARGE{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{3in}
+}
+
+\author{\Large{\textbf{\hmwkAuthorName}}}
+\date{\today} % Insert date here if you want it to appear below your name
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+% \maketitle
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+% \newpage
+% \tableofcontents
+% \newpage
+\vspace*{1mm}
+\begin{center}
+    {\LARGE\textbf{\hmwkTitle}}\\
+   \hmwkDueDate
+\end{center}
+
+\subsection*{Literature}
+\textbf{Phase reduction approach to synchronization of nonlinear oscillators}\\
+Hiroya Nakao\\
+Contemporary Physics 57.2 (2016): 188-214.\\
+\url{https://arxiv.org/abs/1704.03293}\\
+\\
+
+Please also find additional literature.
+
+\subsubsection*{Topic}
+
+This review paper shows how arbitrary limit cycle oscillators, coupled on a network, can be reduced to a canonical phase description, amenable to unified study.
+
+\small{
+\begin{itemize}
+\item Understand and present the paper, especially sections 1, 2, 3, and 5.1.
+\item Choose and present some applications of the theory
+\end{itemize}}
+
+\end{document}
+

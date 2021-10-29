@@ -1,5 +1,13 @@
-*
+/*
 
-!*.md
-!*.pdf
-!*.tex
+!.gitignore
+!.md
+!.pdf
+!.tex
+
+!Seminar/
+Seminar/*
+!Seminar/*.md
+!Seminar/*.pdf
+!Seminar/*.tex
+
