@@ -1,29 +1,31 @@
-# Climate Networks
+## Climate Networks
 
-# Mean Field in Small Worlds
+## Mean Field in Small Worlds
 
-# Percolation
+## Percolation
 
-# Protein Networks
+## Protein Networks
 
-# Random Matrix Theory
+## Random Matrix Theory
 very mathematical
 
-# Ride Sharing Networks
+## Ride Sharing Networks
 
-# Contagion / Disease Spreading
+## Contagion / Disease Spreading
 
-# Foodwebs, Pattern Formation and Master Stability Equations
+## Foodwebs, Pattern Formation and Master Stability Equations
 more simulative
 
-# Phase Reduction to the Kuramoto Model
+## Phase Reduction to the Kuramoto Model
 very mathematical
 
-# Multistability of phase-locking in KM
+## Multistability of phase-locking in KM
 mathematical
 
-# Disturbance propagation in power grid
+## Multistability in Power Grids and Probabilistic notions of stability
+
+## Disturbance propagation in power grid
 simulative
 
-# Cascading Failures
+## Cascading Failures
 simulative
