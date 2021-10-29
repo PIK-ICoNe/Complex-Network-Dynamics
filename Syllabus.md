@@ -3,7 +3,7 @@
 * Motivation
 * Network Measures
  
-# Ensembles (3-4 Lectures, Nora)
+# Ensembles (3-4 Lectures)
 
 * Erdõs-Reyni Networks
 * Proving things about ER
@@ -12,7 +12,7 @@
 * Random Geometric networks
 * Exponential Random Graphs
 
-# Linear Dynamics on Networks (3-4 Lectures, Frank)
+# Linear Dynamics on Networks (3-4 Lectures)
 
 * Diffusion Processes
 * The Graph Laplacian
@@ -21,12 +21,12 @@
 * Diffusive instability and the Master stability approach
 * The link to stochastic processes
 
-# Oscillators and stochastic dynamics (3-4 Lectures, Mehrnaz)
-* Syncgronisation --> Classical Kuramoto Model (KM)
+# Oscillators and stochastic dynamics (3-4 Lectures)
+* Synchronisation --> Classical Kuramoto Model (KM)
 * KM for complex network --> from complete to complex network
 * Phase and frequency order parameter
 * Second Order Kuramoto Model (Swing equation)
-* Stochatic Kuramoto Model
+* Stochastic Kuramoto Model
 
 ---
 
@@ -37,21 +37,5 @@
 * Cascading Failures
 
 # Mean Fields and Network Property Master Equations
-* Noras Method
 
 # Complex networks as a paradigmatic approach to complex systems
-* Kurths lecture?
-
----
-
-# Possible seminar talks:
-* Percolation (Ensembles)
-* Food Webs (Master Equation)
-* Gene Networks (Multistability)
-* Protein folding (Geometric networks)
-* Phase Reduction (Kuramoto Oscillator)
-* Random Matrix Theory (Mathematics of ensembles - !Difficult!)
-* Probabilistic node-wise stability measures (Multistability)
-* Mean-field solution of the small-world network model
-* (Mehrnaz) Multistability of phase-locking in KM
-* (Mehrnaz) Disturbance propagation in power grid
