@@ -14,22 +14,16 @@
 
 
 # Advanced
-   
 * Strogatz - Youtube Channel -
   [https://www.youtube.com/channel/UCj1G_-P9EIMs4VpcgcOPxRw]
   Currently "Asymptotics and perturbation methods"
-* Bianconi -large random complex networks- https://www.youtube.com/watch?v=X6rP6mX1g2c covering ba graphs scale free stuff but then going kind of crazy with stuff about simplicial complexes, maybe not ideal
+* Bianconi -large random complex networks- https://www.youtube.com/watch?v=X6rP6mX1g2c covering ba graphs scale free stuff but then going kind of crazy with stuff about simplicial complexes
 
 # Real world examples of dynamical networks
 * food webs https://www.youtube.com/watch?v=LVJ5BKcAhAg (fun but shallow)
 * protein-protein interactions https://www.youtube.com/watch?v=jc8XVP6Cjwc (fun but shallow)
 
-## Power grids
-
-...
-
-## Biological networks
-
+# Biological networks
 E.g.:
 Quantifying Cell Fate Decisions for Differentiation and Reprogramming of a Human Stem Cell Network:
 Landscape and Biological Paths
