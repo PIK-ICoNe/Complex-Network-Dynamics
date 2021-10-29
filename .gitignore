@@ -10,4 +10,5 @@ Seminar/*
 !Seminar/*.md
 !Seminar/*.pdf
 !Seminar/*.tex
+!Seminar/Literature
 
