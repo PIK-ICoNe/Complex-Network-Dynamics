@@ -35,4 +35,7 @@ Landscape and Biological Paths
 ## References:
 - Synchronization: A universal concept in nonlinear sciences, J. Kurths et. al.
 - Snchronization in complex networks, physics reports 469 (2008) 93-153
-* Youtube Channels: 
+- Lecture noties in physics, international symposium on mathematical problems in theoretical physics (1975), Yoshiki Kuramoto 
+## Youtube Channels: 
+- https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
+- https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
