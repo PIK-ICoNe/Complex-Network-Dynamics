@@ -31,4 +31,7 @@ Landscape and Biological Paths
 
 (Also worth looking at Gene Regulatory Networks, Gene Co-expression Networks)
 
+# Synchronization: Kuramoto Model
+* References:
 
+* Youtube Channels: 
