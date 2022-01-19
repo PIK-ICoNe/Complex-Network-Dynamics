@@ -33,5 +33,6 @@ Landscape and Biological Paths
 
 # Synchronization: Kuramoto Model
 * References:
-
+** Synchronization: A universal concept in nonlinear sciences, J. Kurths et. al.
+** Snchronization in complex networks, physics reports 469 (2008) 93-153
 * Youtube Channels: 
