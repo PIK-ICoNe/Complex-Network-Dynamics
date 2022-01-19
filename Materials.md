@@ -32,7 +32,7 @@ Landscape and Biological Paths
 (Also worth looking at Gene Regulatory Networks, Gene Co-expression Networks)
 
 # Synchronization: Kuramoto Model
-* References:
+*## References:
 - Synchronization: A universal concept in nonlinear sciences, J. Kurths et. al.
 - Snchronization in complex networks, physics reports 469 (2008) 93-153
 * Youtube Channels: 
