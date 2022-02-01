@@ -36,10 +36,14 @@ Landscape and Biological Paths
 - Synchronization: A universal concept in nonlinear sciences, J. Kurths et. al.
 - Snchronization in complex networks, physics reports 469 (2008) 93-153
 - Lecture noties in physics, international symposium on mathematical problems in theoretical physics (1975), Yoshiki Kuramoto 
+- From Kuramoto to Crawford: exploring the onset of synchronization in populations of coupled oscillators, Physica D 143 (2000) 1–20
+- The spectrum of the locked state for the Kuramoto model of coupled oscillators, Physica D 205 (2005) 249–266
+- Stability of Incoherence in a Population of Coupled Oscillators, Journal of Statistical Physics, Vol. 63, Nos. 3/4, 1991
+- Biological Rhythms and the Behavior of Populations of Coupled Oscillators, J. Theoret. Biol. (1967) 16, 1542
 ## Youtube Channels: 
 - Kuramoto talk in MPIPKS: https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
 - Limit cycle lecture: https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
 - Bifurcation lecture: https://www.youtube.com/watch?v=BBd68_q3Dgg&t=1741s
 ## Homework:
 - to simulate KM and calculate order parameter versus different K values
-- finite-size scaling: follow this paper 
+- finite-size scaling: follow this paper:Synchronization on small-world networks, PHYSICAL REVIEW E, VOLUME 65, 026139
