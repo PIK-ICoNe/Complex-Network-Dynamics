@@ -40,3 +40,6 @@ Landscape and Biological Paths
 - Kuramoto talk in MPIPKS: https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
 - Limit cycle lecture: https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
 - Bifurcation lecture: https://www.youtube.com/watch?v=BBd68_q3Dgg&t=1741s
+## Homework:
+- to simulate KM and calculate order parameter versus different K values
+- finite-size scaling: follow this paper 
