@@ -37,5 +37,6 @@ Landscape and Biological Paths
 - Snchronization in complex networks, physics reports 469 (2008) 93-153
 - Lecture noties in physics, international symposium on mathematical problems in theoretical physics (1975), Yoshiki Kuramoto 
 ## Youtube Channels: 
-- https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
-- https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
+- Kuramoto talk in MPIPKS: https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
+- Limit cycle lecture: https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
+- Bifurcation lecture: https://www.youtube.com/watch?v=BBd68_q3Dgg&t=1741s
