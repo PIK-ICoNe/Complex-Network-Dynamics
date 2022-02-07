@@ -40,10 +40,12 @@ Landscape and Biological Paths
 - The spectrum of the locked state for the Kuramoto model of coupled oscillators, Physica D 205 (2005) 249–266
 - Stability of Incoherence in a Population of Coupled Oscillators, Journal of Statistical Physics, Vol. 63, Nos. 3/4, 1991
 - Biological Rhythms and the Behavior of Populations of Coupled Oscillators, J. Theoret. Biol. (1967) 16, 1542
+- Cooperative Phenomena in Coupled Oscillator Systems under External Fields, Progress of Theoretical Physics, Vol. 79, No.1, January 1988
 ## Youtube Channels: 
 - Kuramoto talk in MPIPKS: https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
 - Limit cycle lecture: https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
 - Bifurcation lecture: https://www.youtube.com/watch?v=BBd68_q3Dgg&t=1741s
+- TED talk of S. Strogatz about synchronisation:https://www.youtube.com/watch?v=aSNrKS-sCE0&t=6s
 ## Homework:
 - to simulate KM and calculate order parameter versus different K values
 - finite-size scaling: follow this paper:Synchronization on small-world networks, PHYSICAL REVIEW E, VOLUME 65, 026139
