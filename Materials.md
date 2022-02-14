@@ -41,11 +41,15 @@ Landscape and Biological Paths
 - Stability of Incoherence in a Population of Coupled Oscillators, Journal of Statistical Physics, Vol. 63, Nos. 3/4, 1991
 - Biological Rhythms and the Behavior of Populations of Coupled Oscillators, J. Theoret. Biol. (1967) 16, 1542
 - Cooperative Phenomena in Coupled Oscillator Systems under External Fields, Progress of Theoretical Physics, Vol. 79, No.1, January 1988
+- An adaptive model for synchrony in the firefly Pteroptyx malaccae,J. Math. Biol. (1991) 29:571-585
+- Self-synchronization of coupled oscillators with hysteretic responses, Physica D 100(1997)279-300
+- First Order Phase Transition Resulting from Finite Inertia in Coupled Oscillator Systems, PRL, vol 78, number 11(1997)
 ## Youtube Channels: 
 - Kuramoto talk in MPIPKS: https://www.youtube.com/watch?v=lac4TxWyBOg&t=230s
 - Limit cycle lecture: https://www.youtube.com/watch?v=9rVscJwDpBo&t=1007s
 - Bifurcation lecture: https://www.youtube.com/watch?v=BBd68_q3Dgg&t=1741s
 - TED talk of S. Strogatz about synchronisation:https://www.youtube.com/watch?v=aSNrKS-sCE0&t=6s
+- Theory of synchronisation, A. Pikovsky: https://www.youtube.com/watch?v=Qlkm26FMAvk&t=784s
 ## Homework:
 - to simulate KM and calculate order parameter versus different K values
 - finite-size scaling: follow this paper:Synchronization on small-world networks, PHYSICAL REVIEW E, VOLUME 65, 026139
